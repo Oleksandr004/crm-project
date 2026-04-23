@@ -48,7 +48,7 @@ docker compose up --build
 ```env
 PORT=5000
 FRONTEND_URL=http://localhost:3000
-DATABASE_URL=postgresql://user:password@localhost:5432/crm?schema=public
+DATABASE_URL=postgresql://postgres:admin12345@localhost:5432/crm?schema=public
 ```
 
 Пояснення:
