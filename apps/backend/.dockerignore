@@ -1,0 +1,23 @@
+node_modules
+dist
+
+*.db
+*.db-journal
+
+# Логи
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+.env
+.env.production
+
+.git
+.gitignore
+.dockerignore
+.vscode
+.idea
+.DS_Store
+
+README.md
